@@ -67,3 +67,7 @@ def create_tables():
 
 create_tables()
  
+
+ -- inner join is when the tables match exactly
+-- left join returns all data from left handside and matches that of the secod table
+-- right join returns all data from right handside and matches that of the secod table
